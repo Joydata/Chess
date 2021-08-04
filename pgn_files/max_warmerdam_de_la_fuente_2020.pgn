@@ -1,0 +1,24 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.22"]
+[EventDate "2020.08.21"]
+[Round "4"]
+[Result "1-0"]
+[White "Max Warmerdam"]
+[Black "Lance Henderson de La Fuente"]
+[ECO "C45"]
+[WhiteElo "2412"]
+[BlackElo "2177"]
+[Source "Chess-Results"]
+[PlyCount "93"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5
+Qe7 7. Qe2 Nd5 8. c4 Nb6 9. Nc3 Qe6 10. Qe4 g6 11. Bd3 Bg7
+12. f4 O-O 13. O-O d6 14. c5 Nd5 15. cxd6 cxd6 16. Qe2 dxe5
+17. f5 Qe7 18. Bd2 Rb8 19. Rab1 Re8 20. Qf2 e4 21. Bxe4 Nxc3
+22. Bxc3 Bxc3 23. bxc3 Ba6 24. Rxb8 Rxb8 25. Rb1 Re8 26. Bxc6
+Rc8 27. Re1 Qf6 28. Bd5 Rc7 29. fxg6 Qxf2+ 30. Kxf2 hxg6
+31. Rc1 Bc4 32. Bxc4 Rxc4 33. Ke3 Kf8 34. Kd3 Ra4 35. Rc2 Ke7
+36. c4 Kd6 37. Kd4 f5 38. Re2 a5 39. Rd2 Kc6 40. Rb2 Ra3
+41. Re2 Kd6 42. Rf2 Ra4 43. Re2 g5 44. Rf2 f4 45. Rc2 Ra3
+46. Ke4 Rf3 47. gxf3 1-0
